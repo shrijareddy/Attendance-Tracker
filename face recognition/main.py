@@ -12,7 +12,7 @@ import csv
 import mysql.connector
 from help import Help
 
-
+#to run the code change the path for images 
 class Face_Recognition_System:
     def __init__(self,root):
         self.root=root
